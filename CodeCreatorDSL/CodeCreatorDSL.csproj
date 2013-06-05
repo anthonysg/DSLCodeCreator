@@ -54,24 +54,14 @@
   <ItemGroup>
     <Reference Include="Eto, Version=1.1.0.38446, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Release\Eto.dll</HintPath>
+      <HintPath>..\Lib\Eto.dll</HintPath>
     </Reference>
     <Reference Include="Eto.Platform.Windows, Version=1.1.0.38447, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Release\Eto.Platform.Windows.dll</HintPath>
-    </Reference>
-    <Reference Include="Eto.Platform.Wpf, Version=1.1.0.38448, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Release\Eto.Platform.Wpf.dll</HintPath>
+      <HintPath>..\Lib\Eto.Platform.Windows.dll</HintPath>
     </Reference>
     <Reference Include="GitSharp">
-      <HintPath>GitSharp\GitSharp.dll</HintPath>
-    </Reference>
-    <Reference Include="GitSharp.Core">
-      <HintPath>GitSharp\GitSharp.Core.dll</HintPath>
-    </Reference>
-    <Reference Include="GitSharp.Tests">
-      <HintPath>GitSharp\GitSharp.Tests.dll</HintPath>
+      <HintPath>..\Lib\GitSharp.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
