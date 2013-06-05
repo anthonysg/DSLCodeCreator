@@ -1,0 +1,14 @@
+c:\documents and settings\dcpc10\my documents\visual studio 2010\Projects\CodeCreatorDSL\CodeCreatorDSL\bin\Debug\CodeCreatorDSL.exe
+c:\documents and settings\dcpc10\my documents\visual studio 2010\Projects\CodeCreatorDSL\CodeCreatorDSL\bin\Debug\CodeCreatorDSL.pdb
+c:\documents and settings\dcpc10\my documents\visual studio 2010\Projects\CodeCreatorDSL\CodeCreatorDSL\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\dcpc10\my documents\visual studio 2010\Projects\CodeCreatorDSL\CodeCreatorDSL\obj\x86\Debug\CodeCreatorDSL.exe
+c:\documents and settings\dcpc10\my documents\visual studio 2010\Projects\CodeCreatorDSL\CodeCreatorDSL\obj\x86\Debug\CodeCreatorDSL.pdb
+c:\documents and settings\dcpc10\my documents\visual studio 2010\Projects\CodeCreatorDSL\CodeCreatorDSL\bin\Debug\Eto.dll
+c:\documents and settings\dcpc10\my documents\visual studio 2010\Projects\CodeCreatorDSL\CodeCreatorDSL\bin\Debug\Eto.pdb
+C:\Documents and Settings\dcpc10\my documents\visual studio 2010\Projects\CodeCreatorDSL\CodeCreatorDSL\bin\Debug\Eto.Platform.Windows.dll
+C:\Documents and Settings\dcpc10\my documents\visual studio 2010\Projects\CodeCreatorDSL\CodeCreatorDSL\bin\Debug\Eto.Platform.Windows.pdb
+C:\Documents and Settings\dcpc10\my documents\visual studio 2010\Projects\CodeCreatorDSL\CodeCreatorDSL\bin\Debug\Eto.Platform.Wpf.dll
+C:\Documents and Settings\dcpc10\my documents\visual studio 2010\Projects\CodeCreatorDSL\CodeCreatorDSL\bin\Debug\Eto.Platform.Wpf.pdb
+C:\Documents and Settings\dcpc10\My Documents\Visual Studio 2010\Projects\CodeCreatorDSL\CodeCreatorDSL\bin\Debug\GitSharp.Core.dll
+C:\Documents and Settings\dcpc10\My Documents\Visual Studio 2010\Projects\CodeCreatorDSL\CodeCreatorDSL\bin\Debug\GitSharp.dll
+C:\Documents and Settings\dcpc10\My Documents\Visual Studio 2010\Projects\CodeCreatorDSL\CodeCreatorDSL\bin\Debug\GitSharp.Tests.dll
